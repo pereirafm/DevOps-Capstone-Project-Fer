@@ -3,4 +3,4 @@ on:
  push 
 jobs:
   buildJob:
-   uses: ./.github/workflows/main.yml
+   uses: ./.github/workflows/main_new.yml
