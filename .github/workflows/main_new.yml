@@ -35,9 +35,9 @@ jobs:
      - name: Connect to the Lab and deploy a pod
        uses: cross-the-world/ssh-scp-ssh-pipelines@latest
        with:
-         host: 'fernandopereirasl0034.simplilearnlabs.com'
-         user: 'fernandopereira'
-         pass: 'ereira0A@kyrkg'
+         host: 'mittalsonal04gmsl0034.simplilearnlabs.com'
+         user: 'mittalsonal04gm'
+         pass: 'al04gm0A@4vafq'
          port: 42006
          connect_timeout: 10s
          first_ssh: |
